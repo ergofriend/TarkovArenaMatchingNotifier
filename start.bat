@@ -1,2 +1,2 @@
 @echo off
-powershell -NoProfile -ExecutionPolicy Unrestricted .\TarkovSpawnNotifier.ps1
+powershell -NoProfile -ExecutionPolicy Unrestricted .\TarkovArenaMatchingNotifier.ps1
