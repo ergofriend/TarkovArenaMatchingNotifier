@@ -14,6 +14,9 @@ Please press “Accept” immediately.
 
 You will then be notified again when you move to the screen to select a preset.
 
+https://github.com/user-attachments/assets/fe0a94e6-a642-448f-9760-a581a5f49d0f
+
+
 # How To Use (JP)
 1. [TarkovArenaMatchingNotifier.zip](https://github.com/ergofriend/TarkovArenaMatchingNotifier/archive/refs/heads/main.zip)をダウンロードし、展開します。
 2. `TarkovArenaMatchingNotifier.ps1` をメモ帳などで開き、以下の行を編集します。
