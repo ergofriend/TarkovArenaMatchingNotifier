@@ -2,17 +2,17 @@ This project is based on [advancedbear/TarkovSpawnNotifier: Notify when your mat
 
 # EFT:Arena Matching Notifier
 
-タルコフアリーナのマッチメイキング完了時に通知を出します。
-すぐに「Accept」を押してください。
+マッチングの承認とプリセットの選択を行うタイミングでトースト通知を送ります。
 
-その後、プリセットを選択する画面に移ったときに再度通知を出します。
+マッチング音に耳を済ませたり、プリセット選択画面になるまで何分も待機する必要はもうありません。
 
 <br />
 
-Notify when your EFT:Arena matching completed.
-Please press “Accept” immediately.
+Accepting a match and Selecting a preset will send toast notifications.
 
-You will then be notified again when you move to the screen to select a preset.
+No more listening to the matching sound or waiting minutes for the preset selection screen.
+
+<br />
 
 https://github.com/user-attachments/assets/fe0a94e6-a642-448f-9760-a581a5f49d0f
 
